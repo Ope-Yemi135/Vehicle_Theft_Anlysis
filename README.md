@@ -30,25 +30,25 @@ Stakeholders require structured analytical insights to:
 
 ---
 
-## 📈 Analytical Approach
+##  Analytical Approach
 
-### 1️⃣ Time-Series Analysis
+### 1️ Time-Series Analysis
 - Monthly trend evaluation  
 - Peak period identification  
 - Seasonal fluctuation assessment  
 
-### 2️⃣ Regional Distribution Analysis
+### 2️ Regional Distribution Analysis
 - Percentage contribution by region  
 - Risk concentration modeling  
 - Top-performing region ranking  
 
-### 3️⃣ Vehicle Segmentation
+### 3️ Vehicle Segmentation
 - Vehicle type distribution  
 - Model year vulnerability profiling  
 - Color frequency analysis  
 - Make-based distribution patterns  
 
-### 4️⃣ Risk Ranking (Top-N Analysis)
+### 4️ Risk Ranking (Top-N Analysis)
 - Identification of highest-risk vehicle categories  
 - Regional risk prioritization  
 - Concentration scoring  
@@ -87,6 +87,6 @@ Stakeholders require structured analytical insights to:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 The 2022 vehicle theft analysis reveals strong regional concentration, identifiable seasonal peaks, and specific vehicle vulnerabilities. These insights support targeted, data-driven security interventions and operational improvements.
